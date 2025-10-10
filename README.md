@@ -5,7 +5,7 @@ Java RPG Game은 Spring Boot 백엔드와 React 프론트엔드로 구성된 웹
 ## 🎮 Live Demo (배포 예정)
 - **Frontend**: https://rpg-game.your-domain.com (예정)
 - **Backend API**: https://api.rpg-game.your-domain.com (예정)
-- **API Documentation**: https://api.rpg-game.your-domain.com/swagger-ui.html
+- **API Documentation**: https://api.rpg-game.your-domain.com/swagger-ui.html (에정)
 
 ## 📊 현재 개발 현황
 
