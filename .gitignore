@@ -1,0 +1,30 @@
+# Java
+*.class
+*.jar
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# React
+node_modules/
+build/
+.env.local
+.env.production.local
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
