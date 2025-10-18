@@ -15,7 +15,7 @@ Java RPG Game은 Spring Boot 백엔드와 React 프론트엔드로 구성된 웹
   - ✅ 프론트엔드 프로젝트 구조 설계
   - ✅ Git 통합 관리 체계 구축
   - 🔄 Entity 클래스 구현 (진행 중)
-- **목표 완성도**: MVP (Minimum Viable Product) - 4주 예정
+- **목표 완성도**: MVP (Minimum Viable Product) - 3~4주 예정
 - **개발 도구**: Eclipse (백엔드), VS Code (프론트엔드)
 
 ## 목차
